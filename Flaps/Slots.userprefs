@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SetCombination.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RotateArm.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\GameAdministrator.cs" Line="21" Column="11" />
+      <File FileName="Assets\Scripts\SetCombination.cs" Line="139" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
